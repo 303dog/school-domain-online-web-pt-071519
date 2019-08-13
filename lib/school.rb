@@ -25,4 +25,3 @@ class School
       name.sort
   end 
 end 
-end
