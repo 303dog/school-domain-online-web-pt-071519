@@ -23,6 +23,5 @@ class School
 
   def sort
       @roster.values.sort.each
-    end 
   end
 end 
