@@ -23,7 +23,7 @@ class School
 
   def sort
     @roster.each do |name|
-      @roster.sort.to_h
+      @roster.values.sort.to_h
     end 
   end
 end 
